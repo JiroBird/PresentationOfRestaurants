@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PresentationOfRestaurants</string>
+    <string name="title_restaurants">Рестораны</string>
+    <string name="title_favourites">Хиты</string>
+    <string name="title_reviews">Отзывы</string>
+
+
+    <string name="trouble_browww">¯\\_(ツ)_/¯</string>
+    <string name="base_url">https://front-task.chibbistest.ru/api/v1/</string>
+    <string name="error_message_connectivity_trouble">Проверьте Интернет подключение</string>
+</resources>
